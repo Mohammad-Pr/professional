@@ -10,4 +10,4 @@
 <p>Changes are applied to the database at the same time as they are added or deleted in the user interface.</p>
 <p>💚💛❤️</p>
 # ⚙ :
-<p>❗ Built with HTML, CSS, JS, PHP, MySQL, and Bootstrap frameworks</p>
+<p>❗ Built with HTML, CSS, JS, PHP, MySQL, and Bootstrap framework</p>
